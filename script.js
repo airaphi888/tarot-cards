@@ -1,21 +1,21 @@
 const tarotCards = [
     { 
         name: '愚者', 
-        image: 'images/00-fool.jpg',
+        image: 'images/00.jpg',
         meaning: '新的開始、冒險、自由、天真',
         upright: '冒險、無憂無慮、純真、自發性',
         reversed: '魯莽、不負責任、過度冒險'
     },
     { 
         name: '魔術師', 
-        image: 'images/01-magician.jpg',
+        image: 'images/01.jpg',
         meaning: '創造力、技能、意志力、自信',
         upright: '創造力、技巧、專注、實現目標',
         reversed: '技能不足、濫用力量、欺騙'
     },
     { 
         name: '女祭司', 
-        image: 'images/02-priestess.jpg',
+        image: 'images/02.jpg',
         meaning: '直覺、神秘、內在知識、智慧',
         upright: '直覺、神秘、內在智慧、靈性',
         reversed: '直覺受阻、表面化、缺乏洞察力'
